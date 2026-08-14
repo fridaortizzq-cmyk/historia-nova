@@ -21,3 +21,4 @@ print(" --Los dos estudiantes salieron del laboratorio dejando la computadora en
 print(" --Exactamente a las 6:47 p.m., todas las pantallas del salón se apagaron.")
 print(" --Unos segundos después volvieron a encenderse.")
 print("NOVA: Evento evitado.")
+print("Lalo: ¿Qué evento?")
