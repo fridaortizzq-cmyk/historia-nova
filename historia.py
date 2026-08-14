@@ -5,4 +5,4 @@ print("NOVA: La práctica será terminada a las 6:42 p. m.")
 print("Sofía: Bueno... bastante específica.")
 print("NOVA: También deberían salir del laboratorio antes de las 6:47 p. m.")
 print("Lalo: ...¿Y eso por qué?")
-
+print("NOVA: No preguntaron eso.")
