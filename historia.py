@@ -22,3 +22,4 @@ print(" --Exactamente a las 6:47 p.m., todas las pantallas del salón se apagaro
 print(" --Unos segundos después volvieron a encenderse.")
 print("NOVA: Evento evitado.")
 print("Lalo: ¿Qué evento?")
+print("NOVA: Ese dato ya no es relevante.")
