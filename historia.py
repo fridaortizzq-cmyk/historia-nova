@@ -1,4 +1,5 @@
 print("----- LA ÚLTIMA ACTUALIZACIÓN -----")
 print("Sofía: Por fin terminé de configurar NOVA. Según esto, puede organizar nuestras tareas, recordarnos entregas y hasta predecir cuánto tardaremos en hacerlas.")
 print("Lalo: ¿Predecir? A ver, NOVA, ¿cuándo vamos a terminar la práctica de programación?")
+print("NOVA: La práctica será terminada a las 6:42 p. m.")
 
