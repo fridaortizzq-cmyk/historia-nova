@@ -3,3 +3,4 @@ print("Sofía: Por fin terminé de configurar NOVA. Según esto, puede organizar
 print("Lalo: ¿Predecir? A ver, NOVA, ¿cuándo vamos a terminar la práctica de programación?")
 print("NOVA: La práctica será terminada a las 6:42 p. m.")
 print("Sofía: Bueno... bastante específica.")
+print("NOVA: También deberían salir del laboratorio antes de las 6:47 p. m.")
